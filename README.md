@@ -47,5 +47,4 @@ You can install the required libraries using pip:
 ```markdown
 ```bash
 pip install pandas seaborn matplotlib numpy google-colab
-```
-```
+
